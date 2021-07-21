@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/Vasco21/Bootcamp-terminal-test.svg?branch=master)](https://travis-ci.com/Vasco21/Bootcamp-terminal-test)
